@@ -1,4 +1,4 @@
-# quantification of bacteria-fungi interkingdom assemblages
+# Quantification of bacteria-fungi interkingdom assemblages
 
 Usage of the scripts:
 
