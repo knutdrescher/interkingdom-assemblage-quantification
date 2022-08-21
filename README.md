@@ -1,5 +1,7 @@
 # Quantification of bacteria-fungi interkingdom assemblages
 
+Code was written in Matlab R2020
+
 Usage of the scripts:
 
 batch_getBiovolume_SurfaceCoverage should be used in BiofilmQ advanced batch processing to generate results files containing biovolume and surface coverage measurements 
